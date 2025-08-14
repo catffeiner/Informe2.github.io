@@ -1,0 +1,2 @@
+# Informe2.github.io
+GUÍA DE INSTALACIÓN LINUX JUNTO A WINDOWS
